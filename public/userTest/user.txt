@@ -1,0 +1,7 @@
+1 user1 123456
+1 khoanono@gmail.com 123456789
+2 khoanono2@gmail.com 123456789
+3 khoanono3@gmail.com [object Promise]
+4 khoanono4@gmail.com $2b$10$Agi9uMbCBjCFMLH6wJf43OEVXKQN3kiUlswHKIr/.SMSY.5CAEJeK
+5 khoanono000@gmail.com $2b$10$U101N0K5vLVC2BH92yIBn.sOmKryok/d93E4x5qoT8wCBqlTQ38Kq
+6 khoanono159@gmail.com $2b$10$eGEc08V9Xt/G6KffMFz/XeTzwqKC/pa4lPLUm8n06S9KGdcYzjEkK
